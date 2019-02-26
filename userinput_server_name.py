@@ -10,5 +10,4 @@ def string():
     
     return "Server_Name="+server_name+";DB_Name="+db_name+";Username="+user_name+";Password="+password
 
-l=string()
-print(l)
+print(string())
